@@ -13,7 +13,7 @@
 
 ## 🛠️ Tech Stack:
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,javascript,nodejs,mongodb,mysql,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,javascript,nodejs,expressjs,mongodb,mysql,git,vscode,postman,aws" />
 </div>
 
 ---
@@ -21,4 +21,5 @@
 ## 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riddhi-dhara-2003rd/)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Riddhi_Dhara/)  
+
 
