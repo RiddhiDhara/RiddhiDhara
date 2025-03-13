@@ -6,14 +6,15 @@
 - 💻 **Competitive Programmer** | I love taking on coding challenges! 🎯
 - 🌱 **Primary Language**: C/C++  
 - 🐍 **Secondary Language**: Python  
-- 🌐 **Currently learning**: MERN Stack (MongoDB, Express, React, Node.js)  
+- 🌐 **Currently learning**: MERN Stack (MongoDB, Express, React, Node.js)
+- 🌐 **Currently exploring**: Data Analysis and Visualization (Python, Numpy, Pandas, Matplotlib, Seabourne) 
 - 💡 **Fun Fact**: Solving puzzles and cracking algorithms gives me a real adrenaline rush! ⚡
 
 ---
 
 ## 🛠️ Tech Stack:
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,javascript,nodejs,expressjs,mongodb,mysql,git,vscode,postman,aws" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,javascript,nodejs,expressjs,mongodb,mysql,git,vscode,postman" />
 </div>
 
 ---
