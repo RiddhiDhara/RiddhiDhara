@@ -8,7 +8,7 @@
 - 🐍 **Secondary Language**: Python  
 - 🌐 **Currently learning**: MERN Stack (MongoDB, Express, React, Node.js)
 - 🌐 **Currently exploring**: Data Analysis and Visualization (Python, Numpy, Pandas, Matplotlib, Seabourne) 
-- 💡 **Fun Fact**: Solving real world problem and cracking mysteries gives me a real adrenaline rush! ⚡
+- 💡 **Fun Fact**: Solving real world problem and cracking mysteries give me a real adrenaline rush! ⚡
 
 ---
 
